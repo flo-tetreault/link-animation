@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600&family=Sen:wght@700&display=swap');
+
+@import 'tools/cover';
+
+@import 'settings/colors';
+@import 'settings/easing';
+@import 'settings/fonts';
+@import 'settings/dimensions';
+
+@import 'generic/normalize';
+@import 'generic/reset';
+
+@import 'elements/body';
+@import 'elements/links';
+@import 'elements/wrapper';
+
+@import 'components/header';
+
+@import 'utilities/accessibility';
