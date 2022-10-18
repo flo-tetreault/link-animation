@@ -7,5 +7,5 @@ Il faut modifier les styles css dans le fichier header.scss à partir du comment
 
 
 
-<hr>
+<br><br><br><hr>
 Par Florence Tétreault
